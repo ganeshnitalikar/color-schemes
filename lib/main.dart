@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
 // Theme 1: Modern Blue
-// const Color kPrimaryColor = Color(0xFF0D47A1);
-// const Color kSecondaryColor = Color(0xFF42A5F5);
-// const Color kAccentColor = Color(0xFFFFCA28);
-// const Color kTextColor = Color(0xFF424242);
-// const Color kBackgroundColor = Color(0xFFFFFFFF);
-// const Color kLightGrayColor = Color(0xFFEEEEEE);
+const Color kPrimaryColor = Color(0xFF0D47A1);
+const Color kSecondaryColor = Color(0xFF42A5F5);
+const Color kAccentColor = Color(0xFFFFCA28);
+const Color kTextColor = Color(0xFF424242);
+const Color kBackgroundColor = Color(0xFFFFFFFF);
+const Color kLightGrayColor = Color(0xFFEEEEEE);
 
 // const Color kPrimaryColor = Color(0xFF212121);
 // const Color kSecondaryColor = Color(0xFF757575);
